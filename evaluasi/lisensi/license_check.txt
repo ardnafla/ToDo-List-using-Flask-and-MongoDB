@@ -1,0 +1,20 @@
+Analisis Lisensi - Bagian F
+
+Lisensi yang berlaku:
+- MIT License (Proyek utama)
+- BSD-style License (komponen seperti chromedriver, double_conversion, dynamic_annotations)
+
+Isi Umum BSD-style License:
+- Memperbolehkan modifikasi dan distribusi
+- Wajib menyertakan hak cipta asli
+- Tidak boleh mencatut nama kontributor (mis. Google) untuk promosi
+- Tanpa jaminan (AS IS)
+
+Evaluasi:
+Penggunaan komponen eksternal sesuai lisensi.
+Tidak ada pelanggaran karena:
+✔ Perubahan dilakukan tanpa menghapus lisensi
+✔ Tidak digunakan untuk promosi berbasis merek
+✔ Digunakan dalam konteks pendidikan/non-komersial
+
+Status: ✅ Kompatibel dan etis.
